@@ -6,17 +6,34 @@ img {
 }
 
 body {
-    background-color: #F6FBF4;
+    background-color: #EEEEEE;
+    
 }
 
 hr{
     border-style:  dotted none none none;
     height: 0px;
     width: 6%;
-    border-color: rgb(235, 125, 0);
+    border-color: #9FC9F3;
     
     border-width: 5px;
 }
-
-
+h1{
+    color: #E38B29;
+}
+.experience {
+    background-color: chartreuse;
+}
+.texts{
+    text-decoration: solid;
+}
+h3{
+    color: #E38B29;
+}
+.intro{
+    text-align: center;
+}
+.baslik{
+    text-align:left;
+}
 
