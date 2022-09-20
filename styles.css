@@ -6,7 +6,8 @@ img {
 }
 
 body {
-    background-color: #EEEEEE;
+    background-color: rgb(34, 31, 31);
+    color: rgb(255, 255, 255);
     
 }
 
@@ -30,10 +31,18 @@ h1{
 h3{
     color: #E38B29;
 }
+h4{
+    color: #E38B29;
+}
 .intro{
     text-align: center;
 }
 .baslik{
     text-align:left;
 }
+a{
+    color: aquamarine;
+    
+}
+
 
