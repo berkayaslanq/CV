@@ -1,4 +1,4 @@
-img {
+.profilfoto {
     width: 150px;
     height: 150px;
     border-radius: 50%;
@@ -8,41 +8,56 @@ img {
 body {
     background-color: rgb(34, 31, 31);
     color: rgb(255, 255, 255);
-    
+
 }
 
-hr{
-    border-style:  dotted none none none;
+hr {
+    border-style: dotted none none none;
     height: 0px;
     width: 6%;
     border-color: #9FC9F3;
     
+
     border-width: 5px;
 }
-h1{
+
+h1 {
     color: #E38B29;
 }
+
 .experience {
     background-color: chartreuse;
 }
-.texts{
+
+.texts {
     text-decoration: solid;
 }
-h3{
+
+h3 {
     color: #E38B29;
 }
-h4{
+
+h4 {
     color: #E38B29;
 }
-.intro{
+
+.intro {
     text-align: center;
 }
-.baslik{
-    text-align:left;
+
+.baslik {
+    text-align: left;
 }
-a{
+
+a {
     color: aquamarine;
+
+}
+
+.logo {
+    width: 50px;
+    background-color: rgb(34, 31, 31);
+    text-align: right;
+    
     
 }
-
-
