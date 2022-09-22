@@ -40,7 +40,11 @@ h3 {
 h4 {
     color: #E38B29;
 }
-
+.logo {
+    width: 50px;
+    background-color: rgb(34, 31, 31);
+    text-align: right;
+}
 .intro {
     text-align: center;
 }
@@ -54,10 +58,3 @@ a {
 
 }
 
-.logo {
-    width: 50px;
-    background-color: rgb(34, 31, 31);
-    text-align: right;
-    
-    
-}
