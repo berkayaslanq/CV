@@ -5,10 +5,33 @@
 
 }
 
-body {
-    background-color: rgb(34, 31, 31);
-    color: rgb(255, 255, 255);
+.isim_intro {
+    text-align: center;
+    font-family: 'EB Garamond', serif;
+    font-size: 40px;
+    
+}
+.intro{
+    font-size: 20px;
+}
 
+.baslik {
+    font-size: 25px;
+}
+p{
+    font-size: 20px;
+}
+.td{
+    font-size: 20px;
+}
+
+body {
+    background-color: #011627;
+    color: rgb(255, 255, 255);
+    padding-left: 5%;
+    border: 60px solid #FD841F;
+    border-top: 0px;
+    margin: 0px;
 }
 
 hr {
@@ -22,11 +45,13 @@ hr {
 }
 
 h1 {
-    color: #E38B29;
+    color: #FD841F;
+    
 }
 
 .experience {
-    background-color: chartreuse;
+    
+    
 }
 
 .texts {
@@ -34,24 +59,19 @@ h1 {
 }
 
 h3 {
-    color: #E38B29;
+    color: #FD841F;
 }
 
 h4 {
-    color: #E38B29;
+    color: #FD841F;
 }
 .logo {
     width: 50px;
     background-color: rgb(34, 31, 31);
     text-align: right;
 }
-.intro {
-    text-align: center;
-}
 
-.baslik {
-    text-align: left;
-}
+
 
 a {
     color: aquamarine;
