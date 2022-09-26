@@ -27,25 +27,27 @@ p{
 
 body {
     background-color: #011627;
-    color: rgb(255, 255, 255);
+    color: #dee6ec;
     padding-left: 5%;
-    border: 60px solid #FD841F;
+    border: 30px solid #EF5B0C;
     border-top: 0px;
     margin: 0px;
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous"></script>
 }
 
 hr {
     border-style: dotted none none none;
     height: 0px;
     width: 6%;
-    border-color: #9FC9F3;
+    border-color: #3CCF4E;
     
 
     border-width: 5px;
 }
 
 h1 {
-    color: #FD841F;
+    color: #EF5B0C;
     
 }
 
@@ -56,26 +58,30 @@ h1 {
 }
 
 h3 {
-    color: #FD841F;
+    color: #EF5B0C;
 }
 
 h4 {
-    color: #FD841F;
+    color: #EF5B0C;
 }
 .logo {
     width: 50px;
-    background-color: rgb(34, 31, 31);
+    background-color: #011627;
     text-align: right;
 }
 
 
 
-a {
-    color: aquamarine;
+.link {
+    color: #ff1764;
 
 }
 
+.input{
+    background-color: rgb(197, 197, 197) ;
+}
 
-
-
+a{
+    color: #011627;
+}
 
